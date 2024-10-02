@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn3.iconfinder.com/data/icons/materia-flat-halloween-free/24/039_026_cat_black_witch_halloween-512.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn3.iconfinder.com/data/icons/materia-flat-halloween-free/24/039_025_cat_black_witch_halloween-512.png">
-  <img alt="Shows an illustrated cat in light mode and in dark mode." src="https://cdn3.iconfinder.com/data/icons/materia-flat-halloween-free/24/039_026_cat_black_witch_halloween-512.png">
+  <img alt="Shows an illustrated cat in light mode and in dark mode." src="https://cdn3.iconfinder.com/data/icons/materia-flat-halloween-free/24/039_026_cat_black_witch_halloween-512.png" width="200">
 </picture>
 
 
@@ -18,7 +18,7 @@ Also, I love cats!
 
 
 <details>
-<summary>My top languages</summary>
+<summary>My favorite languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -33,6 +33,7 @@ Also, I love cats!
 > Creativity is seeing what others see and thinking what no one else ever thought.
 
 — Albert Einstein
+
 <!--
 **HollowedMalenia/HollowedMalenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
