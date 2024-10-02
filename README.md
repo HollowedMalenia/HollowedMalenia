@@ -14,7 +14,7 @@ Hi, I'm Carlota, a software engineer student. I enjoy exploring new technologies
 
 Feel free to check out my repositories and connect with me!
 
-Also, I love cats!
+`Also, I love cats!`
 
 
 <details>
