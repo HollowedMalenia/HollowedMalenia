@@ -10,7 +10,7 @@
 
 ## About me
 
-Hi, I'm Carlota, a software engineer student. I enjoy exploring new technologies and building projects.
+Hi, I'm Carlota, a software engineer. I enjoy exploring new technologies and building projects.
 
 Feel free to check out my repositories and connect with me!
 
